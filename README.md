@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Junchi.;PhD+Student+at+NCSU+(Fall+'26);Focusing+on+Systems+%26+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Junchi." alt="Typing SVG" />
   </a>
 </div>
 
