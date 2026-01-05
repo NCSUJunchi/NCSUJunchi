@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <h1>Hi there, I'm Junchi!</h1>
-  <p><b>Student at NCSU | Wolfpack 🐺 | C++ Enthusiast</b></p>
+  <p><b>PhD Student at NCSU(26Fall) | Wolfpack 🐺 | C++ Enthusiast</b></p>
 </div>
 
 ---
@@ -9,10 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **System Programming & Algorithms**.
-- 🌱 I’m currently learning **Advanced C++ & STL**.
-- 🏫 Exploring computer science at **North Carolina State University**.
-- 💬 Ask me about **C++, Data Structures, and NCSU**.
-- 📫 How to reach me: **[YourEmail@ncsu.edu](mailto:YourEmail@ncsu.edu)**
+- 🌱 I’m currently learning ** C++ & Image processing**.
+- 💬 Ask me about **C++, 3D printing, and NCSU**.
+
 
 ### 🛠️ Tech Stack
 
