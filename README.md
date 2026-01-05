@@ -11,7 +11,7 @@
 - 🔭 **Current Focus:** System Programming, Algorithms, and Image Processing.
 - 🌱 **Learning:** Advanced C++ standards (C++17/20) & OpenCV.
 - 🐺 **Education:** Incoming PhD Student at **North Carolina State University**.
-- 🧩 **Hobbies:** 3D printing, sports and solving complex problems.
+- 🧩 **Hobbies:** 3D printing, sports and solving interesting problems.
 
 
 <br/>
