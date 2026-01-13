@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Path planning, Algorithms, and Image Processing.
-- 🌱 **Learning:** Advanced C++ standards (C++17/20) & OpenCV.
+- 🔭 **Current Focus:** Path planning, Algorithms and Image Processing.
+- 🌱 **Learning:** C++/C & OpenCV.
 - 🐺 **Education:** Incoming PhD Student at **North Carolina State University**.
 - 🧩 **Hobbies:** 3D printing, sports and solving interesting problems.
 
